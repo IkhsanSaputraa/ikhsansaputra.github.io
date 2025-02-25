@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Project Java UI
 description: Sebuah rancangan aplikasi yang berguna untuk menyediakan informasi mengenai berbagai bidang karir dan menyediakan media belajar yang efektif untuk menunjang karir
 author: Kevin Ardhana
@@ -13,4 +13,4 @@ image:
 
 ## Git Hub Project Karir Kita
 
-[Link](https://github.com/Kevinardhana096/KarirKita-Projects.git)
+[Link](https://github.com/Kevinardhana096/KarirKita-Projects.git) -->
