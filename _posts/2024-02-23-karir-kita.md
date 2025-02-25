@@ -13,4 +13,4 @@ image:
 
 ## Git Hub Project Karir Kita
 
-<https://github.com/Kevinardhana096/KarirKita-Projects.git>
+[Link](https://github.com/Kevinardhana096/KarirKita-Projects.git)

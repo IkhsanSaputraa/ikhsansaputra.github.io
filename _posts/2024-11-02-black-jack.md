@@ -11,4 +11,4 @@ image:
     alt: Wallpaper game black jack.
 ---
 ## Git Hub Project Black Jack
-<https://github.com/WdAnandaLesmono/LAB-WEB-03-2024/tree/main/H071231027/Tugas%20Praktikum-5>
+[Link](https://github.com/WdAnandaLesmono/LAB-WEB-03-2024/tree/main/H071231027/Tugas%20Praktikum-5)
