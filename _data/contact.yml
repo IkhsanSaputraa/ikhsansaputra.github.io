@@ -8,7 +8,7 @@
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  noblank: true # open link in current tab 
 
 # - type: rss
 #   icon: "fas fa-rss"
@@ -22,6 +22,11 @@
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/kevin-ardhana-806a12326'                  # Fill with your Linkedin homepage
+
+  
+- type: instagram
+  icon: 'fab fa-instagram'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.instagram.com/kevinardana12'                  # Fill with your Instagram homepage  
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
