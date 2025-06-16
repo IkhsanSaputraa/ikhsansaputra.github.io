@@ -5,6 +5,10 @@ author: Kevin Ardhana
 date: 2025-06-13
 categories: [Mobile, Java, Android ]
 Tag: [Java, Android Studio]
+image:
+    path: /assets/img/logomelodix.png
+    lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+    alt: Logo Melodix.
 ---
 
 # Melodix - Aplikasi Pemutar Musik Android 🎵
@@ -131,34 +135,22 @@ app/src/main/java/com/example/melodix/
 ## 6. Tampilan Aplikasi
 
 ### Splash Screen
-<div align="center">
-  <img src="Screenshots/splash_screen.jpeg" width="250" alt="Splash Screen"/>
-</div>
+<img src="/Screenshots/splash_screen.jpeg" width="300" alt="Splash Screen">
 
 ### Login & Registration
-<div align="center">
- <img src="Screenshots/login.jpeg" width="250" alt="Login Screen"/>
-</div>
+<img src="/Screenshots/login.jpeg" width="300" alt="Login Screen"/>
 
 ### Home Screen
-<div align="center">
- <img src="Screenshots/homescreen.jpeg" width="250" alt="Home Screen"/>
-</div>
+<img src="/Screenshots/homescreen.jpeg" width="300" alt="Home Screen"/>
 
 ### Music Player
-<div align="center">
- <img src="Screenshots/musicPlayer.jpeg" width="250" alt="Music Player"/>
-</div>
+<img src="/Screenshots/musicPlayer.jpeg" width="300" alt="Music Player"/>
 
 ### Favorites
-<div align="center">
- <img src="Screenshots/favorite.jpeg" width="250" alt="Favorite Screen"/>
-</div>
+<img src="/Screenshots/favorite.jpeg" width="300" alt="Favorite Screen"/>
 
 ### Profile & Settings
-<div align="center">
- <img src="Screenshots/profile.jpeg" width="250" alt="Profile Screen"/>
-</div>
+<img src="/Screenshots/profile.jpeg" width="300" alt="Profile Screen"/>
 
 ## 7. Instalasi & Menjalankan Proyek
 
