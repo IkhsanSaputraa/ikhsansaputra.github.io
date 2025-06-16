@@ -164,7 +164,7 @@ app/src/main/java/com/example/melodix/
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/mobilesaperhenibus/Melodix1.git
+   git clone https://github.com/Kevinardhana096/Melodix.git
    cd Melodix1
    ```
 
@@ -479,7 +479,7 @@ test: add unit tests for authentication
 - **GitHub Issues** - Bug reports dan feature requests
 - **Documentation** - Comprehensive guides dan tutorials
 - **Stack Overflow** - Tag dengan `melodix-android`
-- **Email Support** - mobilesaperhenibus@gmail.com
+- **Email Support** - kevinardhana096@gmail.com
 
 ### Community Guidelines
 - Be respectful dan constructive
@@ -502,7 +502,7 @@ test: add unit tests for authentication
 - Apple Music - Design patterns
 
 ### Contributors
-- Kevin Ardhana (@mobilesaperhenibus) - Main Developer
+- Kevin Ardhana (@kevinardhana096) - Main Developer
 - Open source community - Bug reports dan suggestions
 
 ## 20. License & Legal
@@ -545,20 +545,9 @@ This application is for educational purposes. Music content is provided by Deeze
 ## Kontak
 
 **Developer:** Kevin Ardhana  
-**GitHub:** [@mobilesaperhenibus](https://github.com/mobilesaperhenibus)  
-**Repository:** [Melodix1](https://github.com/mobilesaperhenibus/Melodix1)  
-**Email:** mobilesaperhenibus@gmail.com  
-
----
-
-## Project Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/mobilesaperhenibus/Melodix1?style=social)
-![GitHub forks](https://img.shields.io/github/forks/mobilesaperhenibus/Melodix1?style=social)
-![GitHub issues](https://img.shields.io/github/issues/mobilesaperhenibus/Melodix1)
-![GitHub last commit](https://img.shields.io/github/last-commit/mobilesaperhenibus/Melodix1)
-![GitHub language count](https://img.shields.io/github/languages/count/mobilesaperhenibus/Melodix1)
-![GitHub top language](https://img.shields.io/github/languages/top/mobilesaperhenibus/Melodix1)
+**GitHub:** [@kevinardhana096](https://github.com/kevinardhana096)  
+**Repository:** [Melodix](https://github.com/kevinardhana096/Melodix)  
+**Email:** kevinardhana096@gmail.com  
 
 ---
 
