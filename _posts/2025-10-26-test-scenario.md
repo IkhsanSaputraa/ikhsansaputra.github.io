@@ -1,7 +1,7 @@
 ---
 title : Test Scenario, Test Case, dan Bug Report dalam Pengujian Aplikasi BMI
 description: Pelajari pengertian, perbedaan, serta contoh nyata Test Scenario, Test Case, dan Bug Report berdasarkan pengujian aplikasi BMI. Termasuk template dan tips menghindari bug dalam pengembangan perangkat lunak.
-author: Kevin Ardhana
+author: Ikhsan Saputra
 date: 2025-10-26
 categories: [Software Testing & Quality assurance, Tes Scenario]
 Tag: [Software, Testing, Quality Assurance]
@@ -173,8 +173,3 @@ Mereka memastikan setiap fungsi aplikasi diuji, kesalahan terdokumentasi, dan pe
 
 > “Quality software doesn’t happen by chance — it’s the result of careful planning, testing, and collaboration.”
 
-## Kontak
-
-**Developer:** Kevin Ardhana  
-**GitHub:** [@kevinardhana096](https://github.com/kevinardhana096)   
-**Email:** kevinardhana096@gmail.com  

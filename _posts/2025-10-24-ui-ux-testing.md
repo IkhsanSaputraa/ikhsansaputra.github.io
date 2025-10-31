@@ -1,7 +1,7 @@
 ---
 title : UI/UX Testing Strategi
 description: Pelajari perbedaan UI dan UX Testing, fokus utama, contoh pengujian, metode, tools yang digunakan, serta pengenalan 10 prinsip usability dari Jakob Nielsen.
-author: Kevin Ardhana
+author: Ikhsan Saputra
 date: 2025-10-24
 categories: [Software Testing & Quality assurance, UI/UX Testing]
 Tag: [Software, Testing, Quality Assurance]
@@ -120,9 +120,4 @@ Testing ini membantu menemukan celah baik dari sisi **tampilan (UI)** maupun **p
 Melalui metode seperti **A/B Testing**, **Heatmaps**, dan **Heuristic Evaluation**, tim dapat memahami bagaimana pengguna berinteraksi, mengidentifikasi hambatan, dan meningkatkan desain agar lebih intuitif dan menyenangkan.
 
 > “Desain yang baik bukan hanya terlihat indah, tetapi juga membuat pengguna merasa nyaman.” – *Jakob Nielsen*
-
-## Kontak
-
-**Developer:** Kevin Ardhana  
-**GitHub:** [@kevinardhana096](https://github.com/kevinardhana096)   
-**Email:** kevinardhana096@gmail.com  
+  

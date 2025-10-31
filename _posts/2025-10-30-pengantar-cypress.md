@@ -1,7 +1,7 @@
 ---
 title : Pengantar Cypress
 description: Pelajari konsep dasar Cypress, instalasi, perintah utama, serta keunggulannya dibanding Selenium. Disertai contoh study case login pada situs saucedemo.com untuk memahami praktik pengujian otomatis berbasis UI.
-author: Kevin Ardhana
+author: Ikhsan Saputra
 date: 2025-10-30
 categories: [Software Testing & Quality assurance, Pengantar Cypress]
 Tag: [Software, Testing, Quality Assurance]
@@ -48,8 +48,4 @@ npm init -y
 # 2️⃣ Instal Cypress sebagai dependensi pengujian
 npm install cypress --save-dev
 
-## Kontak
-
-**Developer:** Kevin Ardhana  
-**GitHub:** [@kevinardhana096](https://github.com/kevinardhana096)   
-**Email:** kevinardhana096@gmail.com  
+ 

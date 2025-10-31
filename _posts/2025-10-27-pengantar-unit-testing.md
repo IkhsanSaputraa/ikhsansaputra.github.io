@@ -1,7 +1,7 @@
 ---
 title : Pengantar Unit Testing
 description: Pelajari apa itu Unit Testing, mengapa penting dalam pengembangan perangkat lunak, pola dasar Arrange-Act-Assert (AAA), serta framework populer seperti JUnit, Pytest, dan Jest.
-author: Kevin Ardhana
+author: Ikhsan Saputra
 date: 2025-10-27
 categories: [Software Testing & Quality assurance, Pengantar Unit Testing]
 Tag: [Software, Testing, Quality Assurance]
@@ -89,8 +89,4 @@ def test_addition():
     # Assert
     assert result == 5
 
-## Kontak
-
-**Developer:** Kevin Ardhana  
-**GitHub:** [@kevinardhana096](https://github.com/kevinardhana096)   
-**Email:** kevinardhana096@gmail.com  
+ 

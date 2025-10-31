@@ -1,7 +1,7 @@
 ---
 title : Pengantar Selenium WebDriver
 description: Pelajari dasar Selenium WebDriver untuk automasi pengujian aplikasi web. Artikel ini menjelaskan konsep, alasan penggunaan, instalasi, serta contoh test scenario dan test case menggunakan Python dan Selenium.
-author: Kevin Ardhana
+author: Ikhsan Saputra
 date: 2025-10-29
 categories: [Software Testing & Quality assurance, Pengantar Selenium]
 Tag: [Software, Testing, Quality Assurance]
@@ -80,9 +80,4 @@ pip install selenium
 
 # 2. Download WebDriver (contoh: ChromeDriver)
 # Pastikan versi sesuai dengan browser Chrome kamu
-
-## Kontak
-
-**Developer:** Kevin Ardhana  
-**GitHub:** [@kevinardhana096](https://github.com/kevinardhana096)   
-**Email:** kevinardhana096@gmail.com  
+ 

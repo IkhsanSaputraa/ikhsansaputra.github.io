@@ -1,7 +1,7 @@
 ---
 title : Strategi Testing dalam Pengembangan Perangkat Lunak
 description: Pelajari strategi testing dalam pengembangan perangkat lunak — mulai dari pengenalan, tujuan, siklus hidup testing, hingga klasifikasi berdasarkan tingkat abstraksi, fungsi, struktur, dan domain.
-author: Kevin Ardhana
+author: Ikhsan Saputra
 date: 2025-10-23
 categories: [Software Testing & Quality assurance, Strategi Testing]
 Tag: [Software, Testing, Quality Assurance]
@@ -131,9 +131,3 @@ Software testing bukan hanya tahap tambahan, melainkan **komponen vital dalam si
 - Siap dirilis ke pasar dengan kualitas tinggi.
 
 Testing bukan hanya mencari kesalahan, tetapi **membuktikan kualitas** dari apa yang telah dibuat.
-
-## Kontak
-
-**Developer:** Kevin Ardhana  
-**GitHub:** [@kevinardhana096](https://github.com/kevinardhana096)   
-**Email:** kevinardhana096@gmail.com  

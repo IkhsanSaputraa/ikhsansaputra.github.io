@@ -1,7 +1,7 @@
 ---
 title : Testing Plan
 description: Pelajari apa itu Testing Plan, tujuan penyusunannya, serta contoh penerapan nyata pada proyek pengujian aplikasi BMI. Artikel ini menjelaskan komponen-komponen penting dalam rencana pengujian berdasarkan standar IEEE 829.
-author: Kevin Ardhana
+author: Ikhsan Saputra
 date: 2025-10-25
 categories: [Software Testing & Quality assurance, Testing Plan]
 Tag: [Software, Testing, Quality Assurance]
@@ -114,9 +114,3 @@ Dengan rencana yang matang, tim dapat:
 📎 **Referensi:**
 - [Kelompok 3 – Testing Plan PDF](https://drive.google.com/file/d/1Pjx6n08veg7o6P-4LjazQCGOx29xH-YS/view?usp=drive_link)  
 - [Demo Test Plan – Aplikasi BMI (Kelompok 3)](https://drive.google.com/file/d/1YiN3oNnXvhQmShckutGpIXPgNi7Ci-vi/view?usp=drive_link)
-
-## Kontak
-
-**Developer:** Kevin Ardhana  
-**GitHub:** [@kevinardhana096](https://github.com/kevinardhana096)   
-**Email:** kevinardhana096@gmail.com  

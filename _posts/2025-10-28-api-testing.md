@@ -1,7 +1,7 @@
 ---
 title : API Testing
 description: Pelajari konsep dasar API Testing, manfaatnya dalam menjaga keandalan sistem, serta tools populer seperti Postman dan SOAP UI. Disertai penjelasan anatomi request-response API dan contoh penggunaannya.
-author: Kevin Ardhana
+author: Ikhsan Saputra
 date: 2025-10-28
 categories: [Software Testing & Quality assurance, API Testing]
 Tag: [Software, Testing, Quality Assurance]
@@ -138,9 +138,3 @@ POST /api/users
   "name": "Kevin",
   "email": "kevin@example.com"
 }
-
-## Kontak
-
-**Developer:** Kevin Ardhana  
-**GitHub:** [@kevinardhana096](https://github.com/kevinardhana096)   
-**Email:** kevinardhana096@gmail.com  
